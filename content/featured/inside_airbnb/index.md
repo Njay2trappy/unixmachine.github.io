@@ -1,19 +1,18 @@
 ---
 date: '4'
-title: 'Inside Airbnb Pipeline'
-cover: './airbnb-pipeline.jpg'
-github: 'https://github.com/Bee0933/inside-airbnb-pipeline?tab=readme-ov-file#inside-airbnb-pipeline'
+title: 'DecentWork – Decentralized Job Marketplace'
+cover: './decentwork.png'
+github: '#'
 external: '#'
 tech:
-  - Python
-  - SQL
-  - Terraform
-  - DBT
-  - AWS (ECS Fargate, S3, Redshift)
-  - Prefect
-  - Slack
-cta: 'https://github.com/Bee0933/inside-airbnb-pipeline?tab=readme-ov-file#inside-airbnb-pipeline'
+  - Node.js
+  - GraphQL
+  - Arweave
+  - MongoDB
+  - JWT
+  - Git
+cta: 'https://https://decentwork-ytit.vercel.app/'
 ---
 
-End-to-end data pipeline for Airbnb Sydney data, automating ingestion, cleaning, and transformation using Python, SQL, and dbt. <br>
-Generates analytics tables revealing trends in pricing, availability, and host behavior.
+DecentWork is a decentralized freelancing and job marketplace built on the Arweave blockchain. <br>
+The backend, developed with Node.js and GraphQL, manages job postings, proposals, and contracts. Arweave provides tamper-proof storage for project data and agreements, while MongoDB is used for fast indexing and querying. Escrow logic secures payments between clients and freelancers, ensuring trustless transactions in a blockchain-powered job economy.

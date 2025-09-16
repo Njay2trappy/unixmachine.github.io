@@ -1,17 +1,20 @@
 ---
-date: '2022'
-title: 'Pizza-steak classifier'
-github: 'https://github.com/Bee0933/pizza-steak-classifier'
-external: 'https://colab.research.google.com/drive/1jsrAet54Ixb02CSRdv5WAXwhE1oTzIwp'
+date: '2024'
+title: 'Telegram Moderator Bot'
+github: 'https://github.com/Njay2trappy/solana-wallets/blob/main/main.py'
+external: '#'
 tech:
   - Python
-  - Tenorflow
-  - Keras
-  - Matplotlib
-  - Google colab
+  - pyTelegramBotAPI (telebot)
+  - Regex
+  - Telegram Bot API
+  - Git
 
+company: '#'
 showInProjects: true
 cta: null
 ---
 
-Built a pizza & steak food classifer with a Convolutional Neural Network Deep Learning Architecture
+A Python-based Telegram moderator bot that automatically detects and deletes spam links sent in a group.  
+The bot leverages `telebot` and regex filtering to scan incoming messages, identify unwanted URLs or blacklisted domains, and remove them in real time.  
+This ensures a cleaner, safer group chat environment by reducing phishing attempts and spam messages without requiring manual moderation.

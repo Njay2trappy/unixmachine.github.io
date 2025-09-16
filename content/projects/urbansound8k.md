@@ -1,18 +1,19 @@
 ---
-date: '2022-01-01'
-title: 'UrbanSound8k Classifier'
-github: 'https://github.com/Bee0933/urbansound8k-classification'
+date: '2024'
+title: 'Telegram Username Details Retriever Bot'
+github: 'https://github.com/Njay2trappy/solana-wallets/blob/main/info.py'
 external: '#'
 tech:
   - Python
-  - Librosa
-  - TensorFlow
-  - Keras
-  - Matplotlib
-  - Jupyter Notebook
+  - pyTelegramBotAPI (telebot)
+  - Telegram Bot API
+  - Git
 
+company: '#'
 showInProjects: true
 cta: null
 ---
 
-Built an audio classification model using the UrbanSound8k dataset and deep learning. The model classifies 10 types of urban sounds including sirens, dog barks, and drilling, using CNNs and audio feature extraction via Librosa.
+A Python-based Telegram bot that retrieves detailed information about a given username on Telegram.  
+Using `telebot` and the Telegram Bot API, it fetches user data such as **user ID, first name, last name, and username**, then returns the details directly in chat.  
+This bot is useful for admins, moderators, and community managers who need to quickly look up member details without leaving Telegram.

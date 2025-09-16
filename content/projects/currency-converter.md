@@ -1,21 +1,21 @@
 ---
-date: '2022'
-title: 'Currency Converter API'
-github: 'https://github.com/Bee0933/currency-converter-api'
+date: '2024'
+title: 'Solana Payment Gateway (Telegram Demo)'
+github: 'https://github.com/Njay2trappy/testrepo/blob/main/app.js'
 external: '#'
 tech:
-  - Python
-  - FastAPI
-  - PostgreSQL
-  - JWT
-  - Gunicorn
-  - Uvicorn
-  - Heroku
-  - Forex-Python
-  - Requests
+  - JavaScript
+  - Node.js
+  - Telegraf
+  - Solana Web3.js
+  - Solana Devnet
+  - Git
 
+company: '#'
 showInProjects: true
 cta: null
 ---
 
-Built a real-time currency converter API using FastAPI. It fetches the latest exchange rates via the forex-python library and supports secure token-based access with JWT. Deployed on Heroku with PostgreSQL for data storage.
+A demo payment gateway built on the Solana Devnet and integrated into Telegram.  
+The bot allows users to initiate transactions directly within chat, connect to Solana wallets, and simulate payments on-chain.  
+This project demonstrates how blockchain payments can be embedded inside messaging platforms, providing a foundation for decentralized commerce flows.

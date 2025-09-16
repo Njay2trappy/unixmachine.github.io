@@ -1,20 +1,20 @@
 ---
-date: '2022'
-title: 'Mushroom Classification'
-github: 'https://github.com/Bee0933/mushroom-classifier'
+date: '2024'
+title: 'USDT/NGN Rate Bot'
+github: 'https://github.com/Njay2trappy/solana-wallets/blob/main/bot.py'
 external: '#'
 tech:
   - Python
-  - Streamlit
-  - Scikit-learn
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Docker
-  - Heroku
+  - Bybit API
+  - pyTelegramBotAPI (telebot)
+  - Requests
+  - Threading
+  - Time
 
+company: '#'
 showInProjects: true
 cta: null
 ---
 
-Built a machine learning web app to classify 23 mushroom species as edible or poisonous based on physical features. Deployed with Streamlit and Docker, and hosted on Heroku for public access.
+A lightweight Python-based Telegram bot that fetches the USDT/NGN exchange rate from the Bybit API and automatically posts updates to a designated Telegram channel every 5 minutes.  
+Built using `telebot`, `requests`, `time`, and `threading`, the bot runs continuously in the background and provides traders and community members with reliable FX updates inside Telegram without manual checks.

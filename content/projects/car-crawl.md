@@ -1,19 +1,19 @@
 ---
-date: '2022'
-title: 'Car sales site web crawler'
-github: 'https://github.com/Bee0933/simple_Car_sales_site_web_crawler'
+date: '2025'
+title: 'Solana Price Monitor Bot'
+github: 'https://github.com/Njay2trappy/testrepo/blob/main/alert.js'
 external: '#'
 tech:
-  - Python
-  - Pandas
-  - requests
-  - BeautifulSoup
-  - git
+  - Node.js
+  - Telegraf
+  - Pump.fun API
+  - JavaScript
+  - Git
 
 company: '#'
 showInProjects: true
 cta: null
 ---
 
-A web scraper that crawls unique car information from a car sales website.
-This scraper provides structured data which could be employed numerous purposes such as for car sales analysis, machine learning etc. including public enlightenment and educational purposes.
+A Telegram bot that fetches real-time Solana price data from the Pump.fun API and automatically posts updates to a designated Telegram channel.  
+This bot helps traders and community members stay informed about SOL price movements instantly inside Telegram, without needing to check external exchanges or dashboards.

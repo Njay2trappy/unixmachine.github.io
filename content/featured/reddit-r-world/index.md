@@ -1,25 +1,20 @@
 ---
 date: '1'
-title: 'Reddit Worldnews Pipeline'
-cover: './reddit.png'
-github: 'https://github.com/Bee0933/reddit-r-news-pipeline'
+title: 'Vscgames Digital Goods Ecosystem'
+cover: './vscgames.png'
+github: '#'
 external: '#'
 tech:
-  - Python
-  - Airflow
-  - Terraform
-  - Ansible
-  - Docker
-  - Prometheus
-  - Grafana
-  - Loki
-  - Soda Core
-  - Snowflake
-  - GitHub Actions
-  - Traefik
-cta: 'https://github.com/Bee0933/reddit-r-news-pipeline'
+  - Node.js
+  - GraphQL
+  - MongoDB
+  - Express.js
+  - REST APIs
+  - Telegram Bot API
+  - Axios
+cta: 'https://shop.vscgames.com'
 ---
 
-Production-grade data pipeline extracting Reddit Worldnews data, deployed on DigitalOcean using Airflow. <br>
+Vscgames is a digital goods ecosystem that provides **game top-ups, vouchers, and payment services** across platforms like Free Fire, PUBG, Razer Gold, Spotify, and Telegram Stars. <br>
 
-Infrastructure is managed with Terraform and Ansible, with containerized services via Docker. Data is stored and analyzed in Snowflake, while monitoring and observability are powered by Prometheus, Grafana, and Loki. CI/CD is automated with GitHub Actions, and data quality is enforced using Soda Core.
+The backend, built with **Node.js, GraphQL, and MongoDB**, integrates supplier APIs for automated fulfillment and includes merchant APIs with key-based authentication. A **Telegram Store bot** complements the system, allowing real-time purchases, code delivery, and transaction logging directly inside Telegram.

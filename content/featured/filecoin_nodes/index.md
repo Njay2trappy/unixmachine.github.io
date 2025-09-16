@@ -1,20 +1,20 @@
 ---
 date: '3'
-title: 'Filecoin Nodes Infrastructure'
-cover: './filecoin.png'
-github: 'https://github.com/Bee0933/filecoin-nodes'
+title: 'Argon – Multi-Chain Payment Gateway'
+cover: './argon.png'
+github: 'https://github.com/Njay2trappy/Argon'
 external: '#'
 tech:
-  - Terraform
-  - AWS (S3, EC2)
-  - Ansible
-  - Docker
-  - Prometheus
-  - Grafana
-  - Github Actions
-  - Nginx
-  - Slack
-cta: 'https://github.com/Bee0933/filecoin-nodes'
+  - Node.js
+  - GraphQL
+  - MongoDB
+  - AirDAO
+  - Solana Web3.js
+  - BSC / BEP20
+  - TON
+  - Git
+cta: 'https://pay.gameket.io'
 ---
 
-End-to-end infrastructure for deploying Filecoin Forest and Lotus nodes on AWS. Configurations optimize storage, availability, monitoring, and security. Automates deployment using Terraform, Ansible, and Docker, with monitoring through Prometheus, Grafana, and Slack alerts.
+Argon is a production-grade multi-chain payment gateway supporting AirDAO, Solana, BSC (BEP20), and TON blockchains. <br>
+The backend is built with Node.js and GraphQL, with MongoDB for persistent storage of users, transactions, and balances. Blockchain SDKs handle wallet connections, transfers, and on-chain verification. Argon demonstrates how payments can be unified across multiple chains with a single backend infrastructure.
