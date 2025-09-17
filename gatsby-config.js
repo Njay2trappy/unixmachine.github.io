@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/Unixmachine.github.io',
+  // pathPrefix: '/Unixmachine.github.io',
   siteMetadata: {
     title: 'Unix Machine',
     description:
