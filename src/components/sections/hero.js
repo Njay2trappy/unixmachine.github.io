@@ -59,21 +59,24 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, I'm</h1>;
-  const two = <h2 className="big-heading">Best Nyah.</h2>;
-  const three = <h3 className="big-heading">I love exploring with Data!</h3>;
+  const two = <h2 className="big-heading">Unix Machine,</h2>;
+  const three = <h3 className="big-heading">I Structure all ideas. </h3>;
   const four = (
     <>
       <p>
-        I'm a versatile Data and Software Engineer skilled in AI, Cloud technologies, and modern
-        data pipelines, with hands-on experience designing resilient infrastructure, optimizing
-        workflows, and implementing robust monitoring systems to enhance performance and
-        reliability.
+        I specialize in building the hidden engines of technology — secure backends, blockchain
+        systems, and payment infrastructures that quietly power digital experiences worldwide.
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://medium.com/@bestnyah7" target="_blank" rel="noreferrer">
-      Checkout my blog 🚀
+    <a
+      className="email-link"
+      href="https://github.com/Njay2trappy"
+      target="_blank"
+      rel="noreferrer"
+    >
+      Checkout my Github 🚀
     </a>
   );
 

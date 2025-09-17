@@ -1,23 +1,23 @@
 module.exports = {
-  email: 'bestnyah7@gmail.com',
+  email: 'ikechukwungoesina@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Bee0933',
+      url: 'https://github.com/Njay2trappy',
     },
     // {
     //   name: 'Instagram',
     //   url: 'https://www.instagram.com/bchiang7',
     // },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Bee_Nyah_',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/best-nyah-83961112a/',
-    },
+    //{
+    //  name: 'Twitter',
+    //  url: 'https://twitter.com/Bee_Nyah_',
+    // },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/best-nyah-83961112a/',
+    // },
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/bchiang7',

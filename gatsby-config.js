@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/bestnyah.github.io',
+  pathPrefix: '/Unixmachine.github.io',
   siteMetadata: {
-    title: 'Best Nyah',
+    title: 'Unix Machine',
     description:
-      'Best Nyah is a versatile Data and Software Engineer with 4+ years of experience in AI, cloud technologies, and data pipelines, skilled in uncovering insights, building resilient systems, and optimizing performance through smart automation and monitoring.',
-    siteUrl: 'https://github.com/Bee0933/bestnyah.github.io', // No trailing slash allowed!
+      'Unix Machine is a versatile Backend and Blockchain Engineer with 2+ years of experience in AI, cloud technologies, and data pipelines, skilled in uncovering insights, building resilient systems, and optimizing performance through smart automation and monitoring.',
+    siteUrl: 'https://github.com/Njay2trappy/unixmachine.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Bee_Nyah_',
   },
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BestNyah',
+        name: 'UnixMachine',
         short_name: 'BrittanyChiang',
         start_url: '/',
         background_color: config.colors.darkNavy,
